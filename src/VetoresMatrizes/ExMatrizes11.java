@@ -1,3 +1,5 @@
+package VetoresMatrizes;
+
 public class ExMatrizes11 {
     //1. Análise de Saldos em Contas Correntes
     //Um banco monitora os saldos diários de N clientes durante M dias em uma matriz double[N][M].

@@ -1,3 +1,5 @@
+package VetoresMatrizes;
+
 public class ExMatrizes3 {
     //3. Crie um metodo que calcule o total de saldos de uma matriz 3x2 (clientes x meses) e outro metodo que calcule o saldo médio por cliente (média das linhas).
     //double calcularSaldoTotal(double[][] matriz);

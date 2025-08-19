@@ -1,3 +1,5 @@
+package VetoresMatrizes;
+
 public class ExMatrizes2 {
     //Dada uma matriz 3x4 que representa dívidas mensais de 3 clientes em 4 meses, crie um metodo para encontrar o maior valor da matriz.
     //double encontrarMaiorValor(double[][] matriz);

@@ -1,3 +1,5 @@
+package VetoresMatrizes;
+
 public class ExMatrizes4 {
     //4. Dada uma matriz 2x3 com preços de produtos em 2 lojas, crie um metodo para encontrar o menor preço de cada produto (mínimo por coluna).
     //double[] encontrarMenorPrecoPorProduto(double[][] matriz);
