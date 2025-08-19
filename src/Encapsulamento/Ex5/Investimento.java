@@ -5,6 +5,7 @@ public class Investimento {
     private double valorInicial;
     private double taxaAnual;
 
+
 //    Regras de validação:
 //    O valor inicial não pode ser menor que R$ 1000
 //    A taxa anual deve estar entre 1% e 20%

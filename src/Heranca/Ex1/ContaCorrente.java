@@ -1,5 +1,7 @@
 package Heranca.Ex1;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class ContaCorrente extends ContaBancaria{
     private double limiteChequeEspecial;
 
@@ -13,6 +15,7 @@ public class ContaCorrente extends ContaBancaria{
 
         if(valor <= limiteChequeEspecial){
             limiteChequeEspecial -= valor;
+            System.out.println("Saque realizado com sucesso!");
         }
         else {
             System.out.println("Limite de cheque especial insuficiente!");
