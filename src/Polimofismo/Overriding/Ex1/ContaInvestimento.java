@@ -1,4 +1,4 @@
-package Polimofismo.Ex1;
+package Polimofismo.Overriding.Ex1;
 
 public class ContaInvestimento extends Conta{
     //ContaInvestimento: cobra 15% sobre os rendimentos (diferença entre saldo e valor investido).

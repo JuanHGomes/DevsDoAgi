@@ -1,4 +1,4 @@
-package Polimofismo.Ex1;
+package Polimofismo.Overriding.Ex1;
 
 public class ContaCorrente extends Conta{
     private static final double imposto = 1.01;

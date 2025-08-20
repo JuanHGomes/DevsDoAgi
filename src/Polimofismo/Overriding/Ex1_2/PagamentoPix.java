@@ -1,4 +1,4 @@
-package Polimofismo.Ex1_2;
+package Polimofismo.Overriding.Ex1_2;
 
 public class PagamentoPix extends Pagamento {
     private String chavePix;

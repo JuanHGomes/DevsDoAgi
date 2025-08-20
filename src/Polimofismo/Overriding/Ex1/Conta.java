@@ -1,4 +1,4 @@
-package Polimofismo.Ex1;
+package Polimofismo.Overriding.Ex1;
 
 public class Conta {
     protected double saldo;
