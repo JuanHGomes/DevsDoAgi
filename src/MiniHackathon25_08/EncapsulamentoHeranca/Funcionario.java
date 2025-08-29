@@ -1,8 +1,5 @@
 package MiniHackathon25_08.EncapsulamentoHeranca;
 
-import javax.sound.midi.Soundbank;
-import java.util.Scanner;
-
 public class Funcionario {
     private String nome;
     private double salario;
