@@ -17,7 +17,7 @@ public class Cliente {
         this.cpf = cpf;
     }
 
-    private String getCpf() {
+    public String getCpf() {
         return cpf;
     }
 
