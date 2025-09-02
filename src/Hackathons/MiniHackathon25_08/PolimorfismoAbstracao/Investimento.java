@@ -1,4 +1,4 @@
-package MiniHackathon25_08.PolimorfismoAbstracao;
+package Hackathons.MiniHackathon25_08.PolimorfismoAbstracao;
 
 public abstract class Investimento {
     double valorInicial;

@@ -1,4 +1,4 @@
-package MiniHackathon25_08.PolimorfismoAbstracao;
+package Hackathons.MiniHackathon25_08.PolimorfismoAbstracao;
 
 public class RendaFixa extends Investimento{
     public RendaFixa(double valorInicial) {

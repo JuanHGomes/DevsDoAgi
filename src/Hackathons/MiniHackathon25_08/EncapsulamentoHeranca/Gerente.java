@@ -1,4 +1,4 @@
-package MiniHackathon25_08.EncapsulamentoHeranca;
+package Hackathons.MiniHackathon25_08.EncapsulamentoHeranca;
 
 public class Gerente extends Funcionario{
     private static final double bonus = 2000;

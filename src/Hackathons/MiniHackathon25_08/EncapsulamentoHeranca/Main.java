@@ -1,4 +1,4 @@
-package MiniHackathon25_08.EncapsulamentoHeranca;
+package Hackathons.MiniHackathon25_08.EncapsulamentoHeranca;
 
 public class Main {
     public static void main(String[] args) {
