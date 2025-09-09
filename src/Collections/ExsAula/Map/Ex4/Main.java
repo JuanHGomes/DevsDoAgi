@@ -33,7 +33,7 @@ public class Main {
     }
 
     static void exibirRelatorioDevedor(Map<String, List<Double>> emprestimos){
-        //exibe o total devedor de todos os cliente
+        //exibe o total devedor de todos os clientes
         emprestimos.forEach((cpf, parcelas) ->
                 System.out.println("CPF " + cpf + " - Total Devedor: R$ " + totalDevedor(emprestimos, cpf)));
 
